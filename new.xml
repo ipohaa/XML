@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+   <name>Nikita</name>
+   <age>24</age>
+   <relocate value="true"/>
+   <cities>
+      <city>Moscow</city>
+      <city>Saint Petersburg</city>
+      <city>Ekaterinburg</city>
+   </cities>
+   <pets null="true"/>
+   <salary>2000</salary>
+</person>
