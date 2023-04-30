@@ -1,0 +1,11 @@
+<preferences>
+   <film>Knives Out</film>
+   <serial null="true"/>
+   <food>Пюрешка с картошкой</food>
+   <season>summer</season>
+   <countries>
+      <country>Norway</country>
+      <country>Denmark</country>
+      <country>Montenegro</country>
+   </countries>
+</preferences>
