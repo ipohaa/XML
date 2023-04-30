@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<report>
+   <id>1</id>
+   <summary> В файле README.md неправильный два заголовка #16</summary>
+   <description> В репозитории ipohaa/JSON в файле README.md два одинаковых заголовка #16, у второго заголовка #16 должен быть номер #17<description>
+   <enviroment>
+      <browser> Yandex Browser 23.3.3.719 (64-bit)</browser>
+      <OS> Windows 11, Verison 21H2 (OS build 22000.1817)</OS>
+   </enviroment>
+   <precondition></precondition>
+   <steps>
+      <step> 1. Перейти в репозиторий https://github.com/ipohaa/JSON </step>
+      <step> 2. Пролистать файл README.md до заголовка #16 </step>
+   </steps>
+   <exp_result> Отсутствие дубликата заголовка, под номером #16 должен быть заголовок #17</exp_result>
+   <act_result> Дубликат заголовка #16, заголовок #17 отсутствует </act_result>
+   <attachments></attachments>
+   <severity> trivial</severity>
+   <priority> low</priority>
+   <author> Ipohaa</author>
+   <date> 30.04.2023</date>
+</report>
